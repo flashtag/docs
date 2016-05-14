@@ -1,3 +1,0 @@
-# Example subcategory
-
-Subcategory description

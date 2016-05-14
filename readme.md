@@ -1,3 +1,3 @@
 # Flashtag Docs
 
-This will be the official docs
+**Offical Docs** view at https://flashtag.org/docs
